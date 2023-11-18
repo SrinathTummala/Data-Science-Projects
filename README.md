@@ -1,2 +1,2 @@
-# IIIT-Course
-All the projects and assignments from the Course
+# Data Science Projects
+This repo is a collection of all my Data Science Projects. 
